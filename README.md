@@ -9,3 +9,6 @@ One thing in particular:
   [sysconf/sysconf.gitted.gitolite/bootstrap.admin.key.pub](sysconf/sysconf.gitted.gitolite/bootstrap.admin.key.pub)
   with your own public key (generated with ```ssh-keygen```). That key
   is used for initialization only.
+
+It doesn't matter don't set the key before installing: we can edit the
+branch ```gitolite-admin``` any time and push it through Gitted.
