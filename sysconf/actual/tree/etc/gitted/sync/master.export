@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source /etc/gitted/sync/defs
+
+GITTED_DATA_PATH=sysconf        /usr/share/gitted/export/sysconf
