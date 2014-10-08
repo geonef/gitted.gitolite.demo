@@ -53,7 +53,7 @@ More info in the
 ["conf" file page of the official Gitolite documentation](http://gitolite.com/gitolite/conf.html).
 
 
-# Create and using repositories
+## Create and using repositories
 
 Do as indicated in the
 [Gitolite documentation](http://gitolite.com/gitolite/index.html), by
